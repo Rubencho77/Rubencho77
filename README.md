@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Editing the file
 
-Its a mardown file in this repository
+Its a markdown file in this repository
